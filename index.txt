@@ -1,4 +1,3 @@
 Hello World ! 
 Une autre ligne 
-Une troisième ligne
 Une 4e ligne
