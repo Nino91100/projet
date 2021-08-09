@@ -2,3 +2,17 @@ Hello World !
 Une autre ligne 
 Une 3e ligne
 Une 4e ligne
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal">Lien wikipedia</a>
+    
+</body>
+</html>
